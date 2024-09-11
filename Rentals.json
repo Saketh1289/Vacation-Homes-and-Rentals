@@ -1,0 +1,92 @@
+[
+    {
+        "model": "core.product",
+        "pk": 1,
+        "fields": {
+            "product_name": "Beachfront Villa",
+            "unit_price": 2500,
+            "product_image": "beachfront_villa.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 2,
+        "fields": {
+            "product_name": "Mountain Cabin",
+            "unit_price": 1500,
+            "product_image": "mountain_cabin.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 3,
+        "fields": {
+            "product_name": "Lake House Retreat",
+            "unit_price": 1800,
+            "product_image": "lake_house_retreat.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 4,
+        "fields": {
+            "product_name": "Luxury Safari Lodge",
+            "unit_price": 3000,
+            "product_image": "luxury_safari_lodge.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 5,
+        "fields": {
+            "product_name": "Charming Cottage",
+            "unit_price": 1200,
+            "product_image": "charming_cottage.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 6,
+        "fields": {
+            "product_name": "Modern City Loft",
+            "unit_price": 2000,
+            "product_image": "modern_city_loft.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 7,
+        "fields": {
+            "product_name": "Secluded Chalet",
+            "unit_price": 1600,
+            "product_image": "secluded_chalet.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 8,
+        "fields": {
+            "product_name": "Cozy Beach Bungalow",
+            "unit_price": 1400,
+            "product_image": "cozy_beach_bungalow.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 9,
+        "fields": {
+            "product_name": "Riverside Cabin",
+            "unit_price": 1300,
+            "product_image": "riverside_cabin.png"
+        }
+    },
+    {
+        "model": "core.product",
+        "pk": 10,
+        "fields": {
+            "product_name": "Elegant Mountain Lodge",
+            "unit_price": 2200,
+            "product_image": "elegant_mountain_lodge.png"
+        }
+    }
+]
