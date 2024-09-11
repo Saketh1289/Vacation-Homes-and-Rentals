@@ -68,7 +68,7 @@ This is an admin based dbms web project developed for the management of the reco
 - Connect a MySQL database:
     >For development environment:
     <br>
-    In **VacationRentals/settings.py** replace the following code snippet according to your mysql database.
+    In **SalesManagementSystem/settings.py** replace the following code snippet according to your mysql database.
 
     ```
     DATABASES = {
