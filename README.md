@@ -120,10 +120,6 @@ This is an admin based dbms web project developed for the management of the reco
 
 <br>
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [@MishanKhatri](https://github.com/Mishankhatri)
-
 <br>
 
 ## 👀 Quick Preview <a name = "preview"></a>
